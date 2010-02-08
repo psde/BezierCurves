@@ -186,6 +186,18 @@
 				RelativePath=".\BezierCurves.hpp"
 				>
 			</File>
+			<File
+				RelativePath=".\fpsCounter.hpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Gosu-PostProcessing.hpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Gosu.hpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Resource Files"
@@ -205,10 +217,6 @@
 				>
 			</File>
 		</Filter>
-		<File
-			RelativePath=".\Gosu.hpp"
-			>
-		</File>
 	</Files>
 	<Globals>
 	</Globals>
