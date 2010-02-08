@@ -14,9 +14,8 @@
 #include <list>
 #include <math.h>
 
-// meh
-#include "../../fpsCounter/fpsCounter/fpsCounter.hpp"
-#include "../../Gosu-PostProcessing/Gosu-PostProcessing/Gosu-PostProcessing.hpp"
+#include "fpsCounter.hpp"
+#include "Gosu-PostProcessing.hpp"
 
 #include "BezierCurves.hpp"
 
